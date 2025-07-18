@@ -2,11 +2,12 @@
 
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.tribalfs.pixels)
 
-Pixels needs **WRITE_SECURE_SETTINGS** permission in order to work (this is NOT rooting).
+Pixels needs **WRITE_SECURE_SETTINGS** permission in order to work (this is NOT rootihdjdjdjjdjdkdjdbkdmdn
+dndndnd
+dmmdn------------------
 
-----------------------
-
-### TLDR
+### TLDRfnfnfkenid jf
+fndndnd
 
 * Execute `adb shell pm grant com.tribalfs.pixels android.permission.WRITE_SECURE_SETTINGS`
 * If using an android terminal app with elevated permission,
