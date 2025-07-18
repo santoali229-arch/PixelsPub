@@ -3,7 +3,7 @@
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.tribalfs.pixels)
 
 Pixels needs **WRITE_SECURE_SETTINGS** permission in order to work (this is NOT rooting).
-
+7769bad317782917b64ae8a96319fcf6461b5120
 ----------------------
 
 ### TLDR
